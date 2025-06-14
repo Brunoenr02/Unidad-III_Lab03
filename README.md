@@ -2,8 +2,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19774953&assignment_repo_type=AssignmentRepo)
 # SESION DE LABORATORIO N° 03: Funciones de Pivoting y Grouping Sets
 
-## Alumno: Bruno Ancco Suaña
-
 ## OBJETIVOS
   * Comprender como se utilizan funciones o comandos SQL de Pivoting y Grouping Sets
 
